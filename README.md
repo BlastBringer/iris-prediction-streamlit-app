@@ -15,3 +15,8 @@ Support Vector Machine (SVM)
 Naive Bayes
 Visualization: Compare the accuracy of each model with graphical outputs.
 Model Metrics: Displays accuracy, confusion matrix, and classification report for evaluation.
+
+To run the application , run these commands (change the appropiate paths)
+
+1) pip install streamlit
+2) streamlit run app.py
